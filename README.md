@@ -1,4 +1,4 @@
-# trentm/json Docker Wrapper
+# antonmdev/fx Docker Wrapper
 This repo simply wraps https://github.com/antonmedv/fx in a convenient Docker image.
 
 ## Alias
